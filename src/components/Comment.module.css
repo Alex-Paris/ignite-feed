@@ -51,6 +51,10 @@
   color: var(--gray-300);
 }
 
+.commentBox footer {
+  margin-top: 1rem;
+}
+
 .commentBox footer button {
   background: transparent;
   border: 0;
